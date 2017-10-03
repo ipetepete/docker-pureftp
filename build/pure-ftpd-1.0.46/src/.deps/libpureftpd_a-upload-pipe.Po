@@ -1,0 +1,6 @@
+libpureftpd_a-upload-pipe.o: upload-pipe.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

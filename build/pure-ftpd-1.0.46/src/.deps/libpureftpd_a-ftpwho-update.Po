@@ -1,0 +1,6 @@
+libpureftpd_a-ftpwho-update.o: ftpwho-update.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

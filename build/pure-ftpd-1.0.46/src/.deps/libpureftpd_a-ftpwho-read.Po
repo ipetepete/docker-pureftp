@@ -1,0 +1,6 @@
+libpureftpd_a-ftpwho-read.o: ftpwho-read.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

@@ -1,0 +1,5 @@
+libpureftpd_a-quotas.o: quotas.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

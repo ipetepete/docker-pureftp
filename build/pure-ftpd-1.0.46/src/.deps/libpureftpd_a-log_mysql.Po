@@ -1,0 +1,6 @@
+libpureftpd_a-log_mysql.o: log_mysql.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

@@ -1,0 +1,6 @@
+libpureftpd_a-diraliases.o: diraliases.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
